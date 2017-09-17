@@ -1,0 +1,6 @@
+MIDlet-Name: 2014 Aerial Assist
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: FIRST
+MIDlet-1: RobotTemplate, , com.team2052.aerialAssist.RobotTemplate
+MicroEdition-Profile: IMP-1.0
+MicroEdition-Configuration: CLDC-1.1
